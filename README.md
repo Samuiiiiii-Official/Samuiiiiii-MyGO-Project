@@ -67,7 +67,7 @@ However:
 Example credit format:
 
 ```
-Based on "Samui MyGO!!!!! Project" by Samui
+Based on "Samui MyGO!!!!! Project" by 寒い_Samui
 ```
 
 ---
